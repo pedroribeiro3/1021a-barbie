@@ -64,7 +64,7 @@ function Footer(){
                     <div>
                         <li><a href="#">Terms of Service</a></li>
                         <li><a href="#">Privacy Policy</a></li>
-                        <li><a href="#"><img src="src\assets\images\language-logo.png" alt="" />Language</a></li>
+                        <li><a href="#">Language</a></li>
                     </div>      
                 </ul>
             </div>
