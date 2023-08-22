@@ -1,4 +1,5 @@
 import './Footer.css'
+import Logo from "./../../assets/images/barbie-logo-rodape.png"
 
 function Footer(){
     return(
@@ -6,7 +7,7 @@ function Footer(){
             <div className='total-footer'>   
                 <div>
                     <div className='logo-footer'>
-                        <img src="https://i0.wp.com/fazerfestas.com/wp-content/uploads/2017/01/Barbie-Logo-Fundo-Escuro-02.png?fit=1000%2C494&ssl=1" alt="" />
+                        <img src={Logo} alt="" />
                     </div>
                     <div className='redes-sociais'>
                         <ul>
