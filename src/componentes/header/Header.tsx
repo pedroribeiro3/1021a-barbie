@@ -1,11 +1,12 @@
 import './Header.css'
 import Link from './../link/Link'
+import LogoTopo from './../../assets/images/barbie-logo-topo.png'
 
 function Header(){
     return(
         <header>
                 <div>
-                    <img src="src\assets\images\barbie-logo-topo.png"/>
+                    <img src={LogoTopo}/>
                 </div>
                 <nav className='navegacao-header'>
                     <ul>
