@@ -1,11 +1,21 @@
 .filme-content{
-  background-color: red;
-  width: 400px;
+  width: 300px;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.4);
 }
 .filme-content>img{
     width: 100%;
     height: auto;
 }
 .text-barbie{
-    font-family: Arial, Helvetica, sans-serif;
+  padding: 10px 0px;
+    color: rgb(63, 63, 63);
+    line-height: 1.55rem;
+}
+.text-barbie p{
+  padding: 10px 0px;
+}
+.sinopse{
+  text-align: justify;
 }
