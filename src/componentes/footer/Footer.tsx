@@ -21,41 +21,41 @@ function Footer(){
                 </div>
                 <nav>
                     <ul>
-                        <li><h1>Product</h1></li>
+                        <li><h1>Produtos</h1></li>
                         <li><a href="#">Mobile Apps</a></li>
                         <li><a href="#">Database Designer</a></li>
-                        <li><a href="#">Business Process Editor</a></li>
+                        <li><a href="#">Editor de Processos Business</a></li>
                         <li><a href="#">Web Apps Designer</a></li>
-                        <li><a href="#">Integrations</a></li>
-                        <li><a href="#">Solutions</a></li>
-                        <li><a href="#">Industries</a></li>
-                        <li><a href="#">Sucess Stories</a></li>
-                        <li><a href="#">Pricing</a></li>
-                        <li><a href="#">Product Updates</a></li>
-                        <li><a href="#">Security</a></li>
-                        <li><a href="#">Plataforms Comparison</a></li>
+                        <li><a href="#">Integrações</a></li>
+                        <li><a href="#">Soluções</a></li>
+                        <li><a href="#">Indústrias</a></li>
+                        <li><a href="#">Histórias de sucesso</a></li>
+                        <li><a href="#">Preços</a></li>
+                        <li><a href="#">Atualizações de Produto</a></li>
+                        <li><a href="#">Segurança</a></li>
+                        <li><a href="#">Plataformas</a></li>
                     </ul>
                     <ul>
-                        <li><h1>Company</h1></li>
-                        <li><a href="#">Careers</a></li>
-                        <li><a href="#">Partner Program</a></li>
-                        <li><a href="#">Find a Partner</a></li>
-                        <li><a href="#">Contact us</a></li>
-                        <li><a href="#">For Investors</a></li>
-                        <li><a href="#">Professional Services</a></li>
+                        <li><h1>Empresa</h1></li>
+                        <li><a href="#">Carreira</a></li>
+                        <li><a href="#">Programa de Parceria</a></li>
+                        <li><a href="#">Ache um Parceiro</a></li>
+                        <li><a href="#">Contate-nos</a></li>
+                        <li><a href="#">Para Investidores</a></li>
+                        <li><a href="#">Serviços Profissionais</a></li>
                     </ul>
                     <ul>
-                        <li><h1>Learn & Get Help</h1></li>
+                        <li><h1>Saiba mais</h1></li>
                         <li><a href="#">Barbie Site</a></li>
                         <li><a href="#">Blog</a></li>
-                        <li><a href="#">ROI Calculator</a></li>
-                        <li><a href="#">Help Center</a></li>
+                        <li><a href="#">Calculadora ROI</a></li>
+                        <li><a href="#">Central de Ajuda</a></li>
                         <li><a href="#">Roadmap</a></li>
                     </ul>
                     <ul>
-                        <li><h1>Community</h1></li>
-                        <li><a href="#">Discord Community</a></li>
-                        <li><a href="#">Documentation</a></li>
+                        <li><h1>Comunidade</h1></li>
+                        <li><a href="#">Comunidade do Discord</a></li>
+                        <li><a href="#">Documentação</a></li>
                     </ul>
                 </nav>
             </div>
@@ -63,9 +63,9 @@ function Footer(){
                 <ul>
                     <li><p>© 2023 Barbie Site</p></li>
                     <div>
-                        <li><a href="#">Terms of Service</a></li>
-                        <li><a href="#">Privacy Policy</a></li>
-                        <li><a href="#">Language</a></li>
+                        <li><a href="#">Termos de Serviço</a></li>
+                        <li><a href="#">Políticas de Privacidade</a></li>
+                        <li><a href="#">Idioma (PT-BR)</a></li>
                     </div>      
                 </ul>
             </div>
