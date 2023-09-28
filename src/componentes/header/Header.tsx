@@ -1,5 +1,5 @@
 import './Header.css'
-import Link from './../link/Link'
+import LinkNav from '../linknav/LinkNav'
 import LogoTopo from './../../assets/images/barbie-logo-topo.png'
 
 function Header(){
@@ -10,10 +10,10 @@ function Header(){
                 </div>
                 <nav className='navegacao-header'>
                     <ul>
-                        <li><Link texto='Home'/></li>
-                        <li><Link texto='Notícias'/></li>
-                        <li><Link texto='Sobre'/></li>
-                        <li><Link texto='Contatos'/></li>
+                        <li><LinkNav url="/" texto='Home'/></li>
+                        <li><LinkNav url="/noticias" texto='Notícias'/></li>
+                        <li><LinkNav url="/sobre" texto='Sobre'/></li>
+                        <li><LinkNav url="/contato" texto='Contatos'/></li>
                     </ul>
                 </nav>
         </header>
